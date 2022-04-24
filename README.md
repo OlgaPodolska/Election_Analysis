@@ -52,9 +52,13 @@ The analysis of the election show that:
 ### Election-Audit Summary
 As you can see, this script could be used for any election with some modifications. 
 
-As example, if in the data source the county and candidate name located in the different columns, we can easily change the number of coumn in the script:
+As example, if in the data source the county and candidate name located in the different columns, we can easily change the number of column in the script:
 
+![code1.png](/Resources/code1.png)
 
+If necessary, the script can calculate the candidate with the lowest number of votes, as well as the county with the lowest turnout with some small modifications. 
+The names of candidates and participating counties this script defines aumatically, so it can be used without modifications with any names and any counties:
 
+![code2.png](/Resources/code2.png)
 
-
+It is importatnt to have the election audit automated: it saves the time for your emploees and save your results from the random errors and mistypings.
