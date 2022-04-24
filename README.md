@@ -33,4 +33,3 @@ The analysis of the election show that:
 
 ## Challenge Summary
 
-
